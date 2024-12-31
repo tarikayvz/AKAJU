@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "leomar291", 
+    "password": "29tarik29", 
+    "database": "akaju_db", 
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "leomar291",
+    "password": "29tarik29",
+    "database": "akaju_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "leomar291",
+    "password": "29tarik29",
+    "database": "akaju_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
